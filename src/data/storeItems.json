@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "book",
+        "price": 119,
+        "imgUrl": "/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "computer",
+        "price": 119,
+        "imgUrl": "/images/computer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "car",
+        "price": 119,
+        "imgUrl": "/images/car.jpg"
+    },
+    {
+        "id": 4,
+        "name": "banana",
+        "price": 119,
+        "imgUrl": "/images/banana.jpg"
+    }
+]
